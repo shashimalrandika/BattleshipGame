@@ -8,6 +8,7 @@ The goal is to **fire shots, sink enemy ships, and win** by sinking both **hidde
 - **ReactApp** → Frontend UI where players fire shots on a 10x10 grid. 
 
 🎯 How to Play
+
 Click on the grid (React) or enter coordinates (Console) to fire shots.
 Battleship (size 5) is visible, but Destroyers (size 4) are hidden.
 The game will give feedback:
@@ -18,6 +19,7 @@ Win Condition: The game ends when both Destroyers are sunk.
 Click "Restart Game" to play again (React) or type "RESET" in the console version.
 
 🛑 How to Stop the Game
+
 Backend → Press Ctrl + C
 Frontend → Press Ctrl + C
 Console Game → Close the terminal or press Ctrl + C
